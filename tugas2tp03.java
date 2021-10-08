@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TugaTP03 {
+public class Tugas2Tp03 {
     
     public static void main(String agrs[]) {
         

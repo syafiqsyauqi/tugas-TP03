@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TugaTP03 {
+public class Tugas1Tp03 {
     public static void main(String agrs[]) {
 	    Scanner nilai = new Scanner(System.in);
 	
